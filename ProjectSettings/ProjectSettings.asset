@@ -769,11 +769,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: e30b35c8-dd0c-4f91-a58a-9d9d7aad0fdb
+  cloudProjectId: 11b21599-103e-41f8-8722-7223df1fca2c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: pong-socket
-  organizationId: aayuanku
+  organizationId: aadithyarao
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
