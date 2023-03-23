@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PaddleMove : MonoBehaviour
+public class ballbounce : MonoBehaviour
 {
-    // Start is called before the first frame update
+    Rigidbody2D rb;
     void Start()
     {
         
