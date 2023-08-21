@@ -15,6 +15,6 @@ public class ball : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //write code to end the game if ball touches a red border
     }
 }
