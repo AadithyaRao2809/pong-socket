@@ -13,6 +13,7 @@ public class paddle2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        int hello = 2;
         if(Input.GetKey(KeyCode.DownArrow))
         {
             transform.Translate(-10*Vector3.up * Time.deltaTime, Space.World);
